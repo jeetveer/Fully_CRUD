@@ -4,7 +4,7 @@ function Home() {
   return (
     <>
       <div className="d-flex justify-content-center">
-        <h1>I am home page bhai</h1>
+        <h1>I am home page</h1>
       </div>
     </>
   )
